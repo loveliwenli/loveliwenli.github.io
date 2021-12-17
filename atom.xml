@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>啥也不会就得记</title>
+  <title>啥也不会</title>
   
-  
+  <subtitle>啥也不会，学了就忘</subtitle>
   <link href="https://loveliwenli.github.io/atom.xml" rel="self"/>
   
   <link href="https://loveliwenli.github.io/"/>
-  <updated>2021-12-14T13:43:48.153Z</updated>
+  <updated>2021-12-15T06:16:32.533Z</updated>
   <id>https://loveliwenli.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://loveliwenli.github.io/posts/e479.html"/>
     <id>https://loveliwenli.github.io/posts/e479.html</id>
     <published>2021-12-14T13:43:48.000Z</published>
-    <updated>2021-12-14T13:43:48.153Z</updated>
+    <updated>2021-12-15T06:16:32.533Z</updated>
     
     
     
@@ -34,7 +34,7 @@
     <link href="https://loveliwenli.github.io/posts/f82e.html"/>
     <id>https://loveliwenli.github.io/posts/f82e.html</id>
     <published>2021-12-14T09:25:46.000Z</published>
-    <updated>2021-12-14T09:25:46.892Z</updated>
+    <updated>2021-12-15T03:51:10.464Z</updated>
     
     
     
@@ -47,7 +47,7 @@
     <link href="https://loveliwenli.github.io/posts/3eeb.html"/>
     <id>https://loveliwenli.github.io/posts/3eeb.html</id>
     <published>2021-12-14T08:31:36.776Z</published>
-    <updated>2021-12-14T08:31:36.777Z</updated>
+    <updated>2021-12-15T03:51:10.466Z</updated>
     
     
       
@@ -68,7 +68,7 @@
     <link href="https://loveliwenli.github.io/posts/6461.html"/>
     <id>https://loveliwenli.github.io/posts/6461.html</id>
     <published>2018-09-07T01:25:00.000Z</published>
-    <updated>2021-12-14T12:12:29.027Z</updated>
+    <updated>2021-12-15T03:51:10.470Z</updated>
     
     
     
